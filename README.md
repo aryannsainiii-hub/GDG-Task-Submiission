@@ -2,7 +2,7 @@
 
 A frontend-only blog platform built with React. You can browse posts, read them, search and filter, write new posts, edit or delete them, like and bookmark posts, and leave comments.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** -  https://gdg-ten-beta.vercel.app/
 
 ## Features
 
