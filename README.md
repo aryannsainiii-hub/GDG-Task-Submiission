@@ -34,7 +34,7 @@ npm run build     # production build in /dist
 npm run preview   # preview the production build
 ```
 
-## Data source
+## Data sourcee
 
 There is no backend or external API. Six sample posts in `src/data.js` are loaded on the first visit and then stored in `localStorage`. To reset, clear the site data in your browser.
 
